@@ -1,0 +1,6 @@
+name = "MO_Registry"
+uuid = "218a0020-e4ce-469c-a7a4-c3e8c7987179"
+repo = "git@github.com:manuelbb-upb/MO_Registry.git"
+description = "Private Julia registry for various projects/packages related to mulitobjective optimization"
+
+[packages]
