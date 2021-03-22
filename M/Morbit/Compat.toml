@@ -1,0 +1,11 @@
+[2]
+ColorSchemes = "3.10.0-3"
+FiniteDiff = "2.7.0-2"
+ForwardDiff = "0.10"
+JLD2 = "0.3"
+JuMP = "0.21"
+NLopt = "0.6"
+OSQP = "0.6"
+Parameters = "0.12"
+RecipesBase = "1"
+julia = "1"
