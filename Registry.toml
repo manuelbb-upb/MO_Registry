@@ -5,4 +5,3 @@ description = "Private Julia registry for various projects/packages related to m
 
 [packages]
 88936782-c8cd-4a0f-b259-ffb12bfd2869 = { name = "Morbit", path = "M/Morbit" }
-ad069600-9bf0-4bd3-b060-bd43ee6ba39c = { name = "MultiObjectiveProblems", path = "M/MultiObjectiveProblems" }
